@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          'The Jekyll Butler'
-description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://getpoole.com
+title:            Bruning's Brain Dump
+tagline:          ''
+description:      'My bitches gripes and complaints'
+url:              http://github.com/ebruning
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ethan Bruning'
+  url:            https://twitter.com/ethan_bruning
 
 paginate:         1
 
@@ -21,4 +21,4 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/ebruning/ebruning.github.io
